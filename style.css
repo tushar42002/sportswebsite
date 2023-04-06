@@ -6,7 +6,7 @@
 body {
     box-sizing: border-box;
     background: #f5f5f5;
-    font-family: 'Baloo Bhai 2', cursive;
+    font-family: 'Baloo Bhai 2';
     /* overflow: hidden; */
 }
 
@@ -233,13 +233,14 @@ header {
 .gallery .images {
     width: 100%;
     /*height: 200px;*/
-    background-color: aqua;
+   /* background-color: aqua;*/
     border-radius: 10px;
     overflow: hidden;
 }
 
 .gallery .images img{
     width: 100%;
+    Height: 100%;
 }
 
 /* ----------- gallery ended --------- */
